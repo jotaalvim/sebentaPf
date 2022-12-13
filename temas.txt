@@ -1,5 +1,4 @@
-
-
+SLIDES 3
 Programação Funcional
     • Motivação
     • resultados da aprendizagem
@@ -8,7 +7,6 @@ Aspetos básicos da linguagem Haskell
     • notação matemátiva vs notação  Haskell
     • assinatura de funções
     • type e data
-
 
 Layout
     • let where 

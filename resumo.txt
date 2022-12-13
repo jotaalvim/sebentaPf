@@ -445,3 +445,14 @@ mod x y
 divMod x y 
 	devolte um tuplo com o div e mod
 	divMod 10 3 == (3,1)
+
+
+
+
+FIXME
+fix f
+    do Control.Monad.Fix
+    fix :: (a -> a) -> a
+    fix f = let {x = f x} in x
+    aplica f's recursivamente
+
