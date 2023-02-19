@@ -42,7 +42,7 @@ Classes
 IO
 
 
-Resumos - [[resumo]]
+Resumos - [[Resumo-Materia]]
 
 
 ---

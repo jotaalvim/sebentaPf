@@ -1,4 +1,4 @@
-São [[funtores]] mas com 2 propriedades acrescentadas:
+É um[[Funtor]] mas com 2 propriedades acrescentadas:
 * unidade
 * multiplicidade
 
