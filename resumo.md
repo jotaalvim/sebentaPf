@@ -1,18 +1,18 @@
 ================== RESUMO HASKELL ================== 
 ÚLTIMA ATUALIZAÇÃO: Sun 13 Nov 2022 06:12:17 PM 
 
-Módulos úteis:
+# Módulos úteis:
     Sytem.Random (:cabal install random)
     Data.Char 
     Data.List
 
 
-Métodos de ordenação de listas:
-	Insertion Sort 
-		Insere recursivamente um elemento no seu respetivo lugar na lista
+# Métodos de ordenação de listas:
+### Insertion Sort 
+Insere recursivamente um elemento no seu respetivo lugar na lista
 
-	Minimum Sort
-		Pega no menor elemento da lista recursivamente e adiciona 
+# Minimum Sort
+Pega no menor elemento da lista recursivamente e adiciona 
                 o a uma lista sem esse elemento recursivamente
 
 	Merg Sort
@@ -240,7 +240,11 @@ null l
 
 concat l
 	concatena as lista dentro de uma lista l
+```
  	concat [[],[1],[2..10]] = [1,2,3,4,5,6,7,8,9,10]
+
+```
+
 
 cycle l 
 	cria uma lista infinita com listas l
@@ -375,8 +379,9 @@ take n l
 
 inits l
 	constroi uma lista com todos os seguementos iniciais de uma lista
+```
 	inits [1,2,3,4] = [[],[1],[1,2],[1,2,3],[1,2,3,4]]
-
+```
 
 Outros:
  
@@ -448,9 +453,8 @@ divMod x y
 
 
 FIXME
-fix f
-    do Control.Monad.Fix
-    fix :: (a -> a) -> a
-    fix f = let {x = f x} in x
+
     aplica f's recursivamente
 
+## Mais coisas visitar 
+[[Materia-avancada]]

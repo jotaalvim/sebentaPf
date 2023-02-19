@@ -27,7 +27,7 @@ Tipos de dados
 
 Funções recursivas sobre listas
 
-Funções e listas por compreensão
+Funções e listas por compreensão [[lista-por-compreensao]]
 Listas por compreensão
 Funções com parâmetro de acumulação
 Algoritmo de ordenação
@@ -40,3 +40,12 @@ Funções anónimas
 Árvores n-árias
 Classes
 IO
+
+
+Resumos - [[resumo]]
+
+
+---
+Tags: [[Programming]]
+Falta terminar
+#todo
