@@ -447,8 +447,6 @@ divMod x y
 	divMod 10 3 == (3,1)
 
 
-
-
 FIXME
 fix f
     do Control.Monad.Fix

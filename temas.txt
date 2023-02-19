@@ -1,4 +1,5 @@
 SLIDES 3
+
 Programação Funcional
     • Motivação
     • resultados da aprendizagem
@@ -24,11 +25,7 @@ Tipos de dados
     • compostos etc
 
 
- 
-
 Funções recursivas sobre listas
-
-
 
 Funções e listas por compreensão
 Listas por compreensão
