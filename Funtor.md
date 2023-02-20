@@ -4,6 +4,7 @@ funtor pode ser visto como uma construtor datatype, que elabora um tipo A para u
     • F (g . h) = (F G) . (F H) 
 
 # Funtores Aplicativos
+Nos funtores aplicativos aplica-se uma função 
 # Funtores Polinomiais
 # Funtores Homomorfos
 

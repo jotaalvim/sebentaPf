@@ -8,7 +8,7 @@
 ```
 * retira da caixa
 * aplica uma função
-* junta tudo e coloca na caixa
+* junta tudo e coloca numa outra caixa
 
 Outra defenição
 ```Haskell
